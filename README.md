@@ -16,8 +16,6 @@ Ecommercia App is a React-based eCommerce application that allows users to brows
 ## Tech Stack
 
 - **Frontend**: React, React Router, Redux, Tailwind CSS, React Hook Form, Zod
-- **Backend**: Node.js, Express.js
-- **Database**: (Specify if applicable, e.g., MongoDB)
 - **Payment Processing**: Stripe
 - **API Integration**: fakestoreapi.com
 
@@ -33,4 +31,4 @@ Ecommercia App is a React-based eCommerce application that allows users to brows
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/yourusername/ecommercia-app.git
+   git clone https://github.com/fidahussainf/ecommercia-app.git
