@@ -22,8 +22,7 @@ Ecommercia App is a React-based eCommerce application that allows users to brows
 ## Installation
 
 ### Prerequisites
-
-- Node.js (v14 or later)
+- Reactjs
 - npm (v6 or later) or yarn
 
 ### Setup
